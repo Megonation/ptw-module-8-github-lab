@@ -1,6 +1,6 @@
 # Request Technical Support
 
-Use the support portal to report a technology problem or ask a support-related question.
+Use the support portal to report a technology problem or ask a support question.
 
 ## Before you begin
 
