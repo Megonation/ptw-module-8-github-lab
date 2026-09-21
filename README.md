@@ -1,29 +1,39 @@
 # PTW Module 8 GitHub Skills Lab
 
-## Make One Useful Change
+## Getting Started with GitHub
 
-Technical writers revise documents to make information clearer and easier to use. In this lab, you will make one small revision to a quick-start guide and record the change in GitHub.
+In this lab, you will use a web browser to explore a GitHub repository and propose one small documentation revision. The instructor will demonstrate how to edit and commit a change in GitHub, then discuss and commit selected student proposals.
 
 ## Your task
 
-1. Open [`quick-start-guide.md`](quick-start-guide.md).
-2. Read the guide once.
-3. Revise **one sentence** to make it clearer, more specific, or more useful for a first-time user.
-4. Preview your revision.
-5. Commit your change with this message:
+1. Open the assigned GitHub repository.
+2. Open `quick-start-guide.md`.
+3. Read the guide once.
+4. Identify one sentence that could be clearer, more specific, or more useful for a first-time reader.
+5. Post the following in Canvas chat:
 
-   `Clarify one user instruction`
+   ```text
+   Original: [the original sentence]
 
-6. Be ready to explain what you changed and how it helps the reader.
+   Revision: [your proposed replacement sentence]
+
+   Reason: [one sentence explaining how the revision helps the reader]
+   ```
+
+6. Be ready to discuss your proposed revision.
 
 ## Keep in mind
 
-- Change only one sentence.
+- Change only one sentence in your proposal.
 - Do not add information that is not supported by the guide.
 - Focus on the reader's needs.
+- You do not need a GitHub account for this activity.
 - You do not need to download or install any software.
-- You do not need to use the command line, create a branch, or open a pull request.
 
 ## Discussion question
 
-What did you change, and how does the change help the reader?
+What did the proposed revision change, and how does it help the reader?
+
+## Optional independent practice
+
+After the lab, you can create a GitHub account and practice editing and committing changes in your own repository. The instructor will demonstrate the account-creation process if time allows.
